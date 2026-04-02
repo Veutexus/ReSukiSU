@@ -44,11 +44,9 @@
     <string name="reboot_to_apply">Ponovo pokrenite da bi proradilo</string>
     <string name="module_magisk_conflict">Module su isključene jer je u sukobu sa Magisk-om!</string>
     <string name="home_learn_kernelsu">Naučite KernelSU</string>
-    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
     <string name="home_click_to_learn_kernelsu">Naučite kako da instalirate KernelSU i da koristite module</string>
     <string name="home_support_title">Podržite Nas</string>
     <string name="home_support_content">KernelSU je, i uvijek če biti, besplatan, i otvorenog izvora. Možete nam međutim pokazati da vas je briga s time da napravite donaciju.</string>
-    <string name="about_source_code"><![CDATA[View source code at %1$s<br/>Join our %2$s channel]]></string>
     <string name="profile_default">Zadano</string>
     <string name="profile_template">Šablon</string>
     <string name="profile_custom">Prilagođeno</string>

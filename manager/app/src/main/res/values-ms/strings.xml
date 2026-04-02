@@ -18,8 +18,6 @@
     <string name="module_failed_to_disable">Gagal mematikan modul: %s</string>
     <string name="module_empty">Tiada modul dipasang</string>
     <string name="module">Modul</string>
-    <string name="module_sort_action_first">Sort (Action first)</string>
-    <string name="module_sort_enabled_first">Sort (Enabled first)</string>
     <string name="uninstall">Padam</string>
     <string name="module_install">Pasang</string>
     <string name="install">Pasang</string>

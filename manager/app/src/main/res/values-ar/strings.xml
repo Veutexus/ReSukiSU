@@ -255,7 +255,6 @@
     <string name="back">عد مرة أخرى</string>
     <string name="background_set_success">تم تعيين الخلفية بنجاح</string>
     <string name="background_removed">إزالة خلفيات مخصصة</string>
-    <string name="icon_switch_summary">Change the launcher icon to KernelSU\'s icon.</string>
     <string name="show_kpm_info">عرض وظيفة KPM</string>
     <string name="show_kpm_info_summary">إخفاء معلومات KPM ووظيفتها في الشريط المنزلي والأسفل</string>
     <string name="app_dpi_title">تم تطبيق DPI</string>

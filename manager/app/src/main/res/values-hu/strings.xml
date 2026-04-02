@@ -45,7 +45,6 @@
     <string name="home_click_to_learn_kernelsu">Ismerje meg a KernelSU telepítését és a modulok használatát</string>
     <string name="home_support_title">Támogasson minket</string>
     <string name="home_support_content">A KernelSU ingyenes, nyílt forráskódú és mindig is az lesz. Ön azonban adományozással megmutathatja, hogy törődik a projekttel.</string>
-    <string name="about_source_code"><![CDATA[View source code at %1$s<br/>Join our %2$s channel]]></string>
     <string name="profile_default">Alapértelmezett</string>
     <string name="profile_template">Sablon</string>
     <string name="profile_custom">Egyedi</string>
